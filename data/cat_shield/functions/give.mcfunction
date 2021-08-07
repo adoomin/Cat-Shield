@@ -1,0 +1,1 @@
+give @p minecraft:shield{display:{Name:'{"text":"고양이 방패","color":"aqua","bold":true}'},CustomModelData:CatShield,BlockEntityTag:{Base:15,Patterns:[{Color:0,Pattern:"cbo"},{Color:0,Pattern:"tts"},{Color:0,Pattern:"tl"},{Color:0,Pattern:"bs"},{Color:15,Pattern:"moj"}]}}
